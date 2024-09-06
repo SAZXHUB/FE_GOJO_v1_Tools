@@ -1,1 +1,1 @@
-# FE_GOJO_v1_Tools
+loadstring(game:HttpGet("https://pastebin.com/raw/vzqZcTAU"))()
